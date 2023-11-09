@@ -1,1 +1,2 @@
-# Post-Liver-Transplant-Complications
+**Post Liver Transplant Complications Analysis Using SQL**
+This project entails a comprehensive analysis of post liver transplant complications using SQL. Leveraging a structured dataset, the project aimed to uncover potential patterns and trends in the occurrence of complications following liver transplant surgeries. By employing SQL queries, various aspects of the post-transplant phase were examined, including the frequency of specific complications, associated risk factors, and potential correlations between different complications.
